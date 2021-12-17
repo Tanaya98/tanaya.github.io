@@ -36,7 +36,7 @@
 
 	  $(function() {
 		typed.typed({
-		  strings: ["Natural Language Processing","Conversational AI","Poetry","Software Development","Computational Linguistics","Food"],
+		  strings: ["Computational Linguistics","Research","Conversational AI","Poetry","NLU","Food"],
 		  typeSpeed: 100,
 		  loop: true,
 		});
